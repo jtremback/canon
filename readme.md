@@ -11,4 +11,8 @@ $ echo '{ "zoology": "bar", "ambergris": "foo" }' | canon
 
 Installation:
 
-You're going to need to have `cargo` and the other rust stuff installed.
+You're going to need to have `cargo` and the other rust stuff installed. Then do:
+
+```
+cargo install canon
+```
