@@ -8,6 +8,8 @@ description = "Naively puts JSON into a canonical form (sorts object keys)"
 readme = "readme.md"
 keywords = ["cli", "json", "canonical"]
 categories = ["command-line-utilities"]
+homepage = "https://github.com/jtremback/canon"
+repository = "https://github.com/jtremback/canon"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
