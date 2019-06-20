@@ -1,0 +1,16 @@
+[package]
+name = "canon"
+version = "0.1.0"
+authors = ["Jehan <jehan.tremback@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+description = "Naively puts JSON into a canonical form (sorts object keys)"
+readme = "readme.md"
+keywords = ["cli", "json", "canonical"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1.0.92"
+serde_json = "1.0.39"
